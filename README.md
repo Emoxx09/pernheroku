@@ -90,18 +90,23 @@
 ![herokudeployclient](https://raw.githubusercontent.com/cbatuic/pernheroku/main/images/herokudeployclient.png)
 8. Use the following test cases listed below. Allow other members to perform the testing. Use the heroku URL assigned to your group, for example ```https://groupnametodoappclient.herokuapp.com```.
 * Basic Features
-- [x] Create a todo with five (5) attributes/columns/fields
-- [x] View list of todos
-- [x] Modify a todo
-- [x] Remove a todo
+- [x] Test Case #1: Create a todo with five (5) attributes/columns/fields
+- [x] Test Case #2: View list of todos
+- [x] Test Case #3: Modify a todo
+- [x] Test Case #4: Remove a todo
+* Advance SQL Features
+- [x] Test Case #5: Uses an Aggregate Function
+- [x] Test Case #6: Uses a View
+- [x] Test Case #7: Uses a Function or Stored Procedure
+- [x] Test Case #8: Uses a Join operator
 * Authenticate and Authorize
-- [x] Test Case #1: Users can sign up for to the app with a unique email
-- [x] Test Case #2: Users cannot sign up for to the app with a duplicate email
-- [x] Test Case #3: Users can login to the app with valid email/password
-- [x] Test Case #4: Users cannot login to the app with blank or missing email
-- [x] Test Case #5: Users cannot login to the app with blank or incorrect password
-- [x] Test Case #6: A list of todos that can only be seen by logged in users (public todos)
-- [x] Test Case #7: A list of todos that can only be seen by a specific user (private todos)
+- [x] Test Case #9: Users can sign up for to the app with a unique email
+- [x] Test Case #10: Users cannot sign up for to the app with a duplicate email
+- [x] Test Case #11: Users can login to the app with valid email/password
+- [x] Test Case #12: Users cannot login to the app with blank or missing email
+- [x] Test Case #13: Users cannot login to the app with blank or incorrect password
+- [x] Test Case #14: A list of todos that can only be seen by logged in users (public todos)
+- [x] Test Case #15: A list of todos that can only be seen by a specific user (private todos)
 
 - Note: All localhost URLs from the Midterm Exam Todo App must be replaced with the groupname Heroku App URLs. Example, instead of ```https://localhost:3000/todos ``` use ```https://groupnametodoappserver.herokuapp.com/todos```. Observe that we did not include the port number.
 
