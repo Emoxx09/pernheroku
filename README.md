@@ -7,7 +7,7 @@
 > heroku apps
 ```
 
-**General Instructions:** Kindly change ```groupname``` naming template in the instructions. You are allowed to **invite other pairs** (**max of 4 pairs** are allowed, that means **8 members per group**). Each group should create a breakoutroom and record the session with audio and video enabled.
+**General Instructions:** Kindly change ```groupname``` naming template in the instructions. You are allowed to **invite other pairs** (**max of 4 pairs** are allowed, that means **8 members per group**). Each group should create a breakoutroom and record the session with enabled audio and video. Each member should secure a copy of their recorded session and submit it individually.
 
 ### Part 1: Server
 1. Create a new folder in your computer. (Folder Name: ```groupnametodoappserver```)
@@ -76,7 +76,7 @@
 * Navigate to heroku.com
 * Login your account
 * Create new app (App Name: groupnametodoappclient)
-6. Push your scripts to Github and Deploy at Heroku
+6. Push your scripts to Github and Deploy at Heroku.
 * Perform the following commands
 ```bash
 > cd groupnametodoappclient
@@ -103,5 +103,5 @@
 - [x] Test Case #6: A list of todos that can only be seen by logged in users (public todos)
 - [x] Test Case #7: A list of todos that can only be seen by a specific user (private todos)
 
-
+- Note: All localhost URLs from the Midterm Exam Todo App must be replaced with the groupname Heroku App URLs. Example, instead of ```https://localhost:3000/todos ``` use ```https://groupnametodoappserver.herokuapp.com/todos```. Observe that we did not include the port number.
 
