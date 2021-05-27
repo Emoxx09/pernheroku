@@ -110,3 +110,9 @@
 
 - Note: All localhost URLs from the Midterm Exam Todo App must be replaced with the groupname Heroku App URLs. Example, instead of ```https://localhost:3000/todos ``` use ```https://groupnametodoappserver.herokuapp.com/todos```. Observe that we did not include the port number.
 
+#### How to Submit?
+* Separate the breakout sessions for Part 1 and 2.
+* Secure a copy of the recorded breakout sessions and upload it to your respective YT channels. (Video Title: PERN HEROKU SERVER by ```groupname``` and PERN HEROKU CLIENT by ```groupname```)
+* Submit the YT link of ```PERN HEROKU SERVER by groupname``` at CC222
+* Submit the YT link of ```PERN HEROKU CLIENT by groupname``` at CC221
+
