@@ -31,7 +31,7 @@
 * Navigate to heroku.com
 * Login your account
 * Create new app (App Name: groupnametodoappserver)
-* Select the newly created app then navigate to ```Resources``` then ```Add-ons```
+* Select the newly created app then navigate to ```Resources``` then ```Add-ons```.
 * Quickly add Heroku Postgres as an add-on
 ![addons](https://raw.githubusercontent.com/cbatuic/pernheroku/main/images/addons.png)
 * View Credentials
