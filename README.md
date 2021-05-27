@@ -95,10 +95,10 @@
 - [x] Test Case #3: Modify a todo
 - [x] Test Case #4: Remove a todo
 * Advance SQL Features
-- [x] Test Case #5: Uses an Aggregate Function
-- [x] Test Case #6: Uses a View
-- [x] Test Case #7: Uses a Function or Stored Procedure
-- [x] Test Case #8: Uses a Join operator
+- [x] Test Case #5: Todo feature that uses an Aggregate Function
+- [x] Test Case #6: Todo feature that uses a View
+- [x] Test Case #7: Todo feature that uses a Function or Stored Procedure
+- [x] Test Case #8: Todo feature that uses a Join operator
 * Authenticate and Authorize
 - [x] Test Case #9: Users can sign up for to the app with a unique email
 - [x] Test Case #10: Users cannot sign up for to the app with a duplicate email
